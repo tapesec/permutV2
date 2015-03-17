@@ -1,0 +1,16 @@
+{
+	"development": {
+		"mongoUrl": "mongodb://localhost/bao-dev",
+		"port": 3000,
+		"salt": "iletaitunefoisunmarchanddefoisquivendaitdufoisdanslavilledefoieilseditmafoiscestbien"
+	},
+	"test": {
+		"mongoUrl": "mongodb://localhost/bao-test",
+		"port": 3000,
+		"salt": "iletaitunefoisunmarchanddefoisquivendaitdufoisdanslavilledefoieilseditmafoiscestbien"
+	},
+	"production": {
+		"mongoUrl": "mongodb://localhost/bao",
+		"port": 3000
+	}
+}

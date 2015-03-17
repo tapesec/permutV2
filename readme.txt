@@ -1,0 +1,1 @@
+New way of programming permut in RESTfull style
